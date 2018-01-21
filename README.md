@@ -7,7 +7,7 @@ All documents in all my bibliographies as one large BibTex file.
 ### publications
 
 - [Publications-2015-MKD-Rice-ASAR.bib](mendeley-groups/Publications-2015-MKD-Rice-ASAR.bib)
-	- All references cited in [Nguyen, D.B.; Clauss, K.; Cao, S.; Naeimi, V.; Kuenzer, C.; Wagner, W.	Mapping Rice Seasonality in the Mekong Delta with Multi-Year Envisat ASAR WSM Data. Remote Sensing. 2015, 7, 15868-15893.](http://https://doi.org/10.3390/rs71215808)
+	- All references cited in [Nguyen, D.B.; Clauss, K.; Cao, S.; Naeimi, V.; Kuenzer, C.; Wagner, W.	Mapping Rice Seasonality in the Mekong Delta with Multi-Year Envisat ASAR WSM Data. Remote Sensing. 2015, 7, 15868-15893.](https://doi.org/10.3390/rs71215808)
 - [Publications-2016-China-Rice-MODIS.bib](mendeley-groups/Publications-2016-China-Rice-MODIS.bib)
 	- All references cited in [Clauss, K.; Yan, H.; Kuenzer, C.	Mapping Paddy Rice in China in 2002, 2005, 2010 and 2014 with MODIS Time Series. Remote Sensing. 2016, 8, 434.](https://doi.org/10.3390/rs8050434)
 - [Publications-2017-Sentinel-rice-mapping-method.bib](mendeley-groups/Publications-2017-Sentinel-rice-mapping-method.bib)
