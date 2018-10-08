@@ -1,17 +1,21 @@
 # bibliography
-Bibliography of papers I read, cited or plan to read/cite. Thematically most of them revolve around the topics of Remote Sensing with a focus on Remote Sensing of Agriculture, specifically rice.
+Bibliography of papers I read, cited or plan to read/cite, and my own publications. Thematically most of them revolve around the topics of Remote Sensing with a focus on Remote Sensing of Agriculture, specifically rice.
 
 ## [all-documents](all-documents.bib)
 All documents in all my bibliographies as one large BibTex file.
 
 ### publications
 
+- [my_publications.bib](mendeley-groups/my_publications.bib)
+	- all publications and conference contributions I (co)-authored
 - [Publications-2015-MKD-Rice-ASAR.bib](mendeley-groups/Publications-2015-MKD-Rice-ASAR.bib)
-	- All references cited in [Nguyen, D.B.; Clauss, K.; Cao, S.; Naeimi, V.; Kuenzer, C.; Wagner, W.	Mapping Rice Seasonality in the Mekong Delta with Multi-Year Envisat ASAR WSM Data. Remote Sensing. 2015, 7, 15868-15893.](https://doi.org/10.3390/rs71215808)
+	- all references cited in [Nguyen, D.B.; Clauss, K.; Cao, S.; Naeimi, V.; Kuenzer, C.; Wagner, W.	Mapping Rice Seasonality in the Mekong Delta with Multi-Year Envisat ASAR WSM Data. Remote Sensing. 2015, 7, 15868-15893.](https://doi.org/10.3390/rs71215808)
 - [Publications-2016-China-Rice-MODIS.bib](mendeley-groups/Publications-2016-China-Rice-MODIS.bib)
-	- All references cited in [Clauss, K.; Yan, H.; Kuenzer, C.	Mapping Paddy Rice in China in 2002, 2005, 2010 and 2014 with MODIS Time Series. Remote Sensing. 2016, 8, 434.](https://doi.org/10.3390/rs8050434)
+	- all references cited in [Clauss, K.; Yan, H.; Kuenzer, C.	Mapping Paddy Rice in China in 2002, 2005, 2010 and 2014 with MODIS Time Series. Remote Sensing. 2016, 8, 434.](https://doi.org/10.3390/rs8050434)
 - [Publications-2017-Sentinel-rice-mapping-method.bib](mendeley-groups/Publications-2017-Sentinel-rice-mapping-method.bib)
-	- All references cited in [Clauss, K.; Ottinger, M.; Kuenzer, C.	Mapping rice areas with Sentinel-1 time series and superpixel segmentation. International Journal of Remote Sensing. 2018, 39, 1399-1420.](https://doi.org/10.1080/01431161.2017.1404162)
+	- all references cited in [Clauss, K.; Ottinger, M.; Kuenzer, C. Mapping rice areas with Sentinel-1 time series and superpixel segmentation. International Journal of Remote Sensing. 2018, 39, 1399-1420.](https://doi.org/10.1080/01431161.2017.1404162)
+- [2018-Sentinel-MKD-rice-production.bib](mendeley-groups/2018-Sentinel-MKD-rice-production.bib)
+	- all references cited in [Clauss, K.; Ottinger, M.; Kuenzer, C. Estimating rice production in the Mekong Delta, Vietnam, utilizing time series of Sentinel-1 SAR data. International Journal of Applied Earth Observation and Geoinformation. 2018, 73, 574-585.](https://doi.org/10.1016/j.jag.2018.07.022)
 
 ## [mendeley-groups](mendeley-groups)
 One BibTex file per group in my Mendeley structure.
@@ -33,7 +37,7 @@ One BibTex file per group in my Mendeley structure.
 	- [Rice / Integrated Systems](mendeley-groups/Rice-Integrated_Rice-general.bib)
 	- [Rice / Multispectral](mendeley-groups/Rice-Multispectral-Rice.bib)
 	- [Rice / SAR](mendeley-groups/Rice-SAR-Rice.bib)
-- [Physical Geography of High Mountain Areas (from my MsC)](mendeley-groups/MsC-Physical-Geography.bib)
+- [MsC Physical Geography (from my masters course)](mendeley-groups/MsC-Physical-Geography.bib)
 - [Geography](mendeley-groups/Geography-general.bib)
 	- [Geography / Mekong Delta](mendeley-groups/Geography-general-MKD.bib)
 - [Software & Tools](mendeley-groups/Software.bib)
